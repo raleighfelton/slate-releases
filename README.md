@@ -2,8 +2,7 @@
 
 This repository hosts official releases of Slate for macOS.
 
-**Download the latest version:** [Slate 1.0.0](https://github.com/raleighfelton/slate-releases/releases/latest)
-
+**Download the latest version:** [Slate 1.0.1](https://github.com/raleighfelton/slate-releases/releases/latest/download/Slate.dmg)
 ---
 
 ## What is Slate?
@@ -31,12 +30,13 @@ Think in markdown. Reason with AI.
 
 ---
 
-## Release History
+## [Release History](https://github.com/raleighfelton/slate-releases/releases/)
 
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0.0 | March 2025 | Initial release |
+| 1.0.1 | April 2025 | Trust and safety hardening |
 
 ---
 
-*Slate is built by [Foundry](https://usefoundry.io)*
+Built by [Raleigh](https://raleighfelton.com/) & [Torben](https://rewired.co/) for [Foundry](https://usefoundry.io)
