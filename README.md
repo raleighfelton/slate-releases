@@ -2,7 +2,7 @@
 
 This repository hosts official releases of Slate for macOS.
 
-**Download the latest version:** [Slate 1.0.1](https://github.com/raleighfelton/slate-releases/releases/latest/download/Slate.dmg)
+**Download the latest version:** [Slate](https://github.com/raleighfelton/slate-releases/releases/latest/download/Slate.dmg)
 ---
 
 ## What is Slate?
@@ -20,8 +20,7 @@ Think in markdown. Reason with AI.
 
 1. Download `Slate.dmg` from the latest release
 2. Open the DMG and drag Slate to your Applications folder
-3. On first launch: right-click → Open (required for unsigned apps)
-4. When prompted, allow Slate to access your files
+3. Click "Open" in slate and select your first MD workspace folder.
 
 ## System Requirements
 
@@ -36,6 +35,7 @@ Think in markdown. Reason with AI.
 |---------|------|-------|
 | 1.0.0 | March 2025 | Initial release |
 | 1.0.1 | April 2025 | Trust and safety hardening |
+| 1.0.2 | April 2025 | Workflow foundations and durability |
 
 ---
 
