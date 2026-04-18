@@ -36,6 +36,7 @@ Think in markdown. Reason with AI.
 | 1.0.0 | March 2025 | Initial release |
 | 1.0.1 | April 2025 | Trust and safety hardening |
 | 1.0.2 | April 2025 | Workflow foundations and durability |
+| 1.0.3 | April 2025 | Sidebar drop workflows and split-view refinement |
 
 ---
 
